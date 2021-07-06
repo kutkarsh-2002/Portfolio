@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fcf422c3.chunk.css",
+    "main.js": "/portfolio/static/js/main.d702654b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d702654b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.bcd5af5a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.bcd5af5a.js.map",
+    "static/css/2.46f1d6ec.chunk.css": "/portfolio/static/css/2.46f1d6ec.chunk.css",
+    "static/js/2.727c3538.chunk.js": "/portfolio/static/js/2.727c3538.chunk.js",
+    "static/js/2.727c3538.chunk.js.map": "/portfolio/static/js/2.727c3538.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.46f1d6ec.chunk.css.map": "/portfolio/static/css/2.46f1d6ec.chunk.css.map",
+    "static/css/main.fcf422c3.chunk.css.map": "/portfolio/static/css/main.fcf422c3.chunk.css.map",
+    "static/js/2.727c3538.chunk.js.LICENSE.txt": "/portfolio/static/js/2.727c3538.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/static/media/Header.8f4a74da.png",
+    "static/media/Utkarsh.b4c24fa7.png": "/portfolio/static/media/Utkarsh.b4c24fa7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd5af5a.js",
+    "static/css/2.46f1d6ec.chunk.css",
+    "static/js/2.727c3538.chunk.js",
+    "static/css/main.fcf422c3.chunk.css",
+    "static/js/main.d702654b.chunk.js"
+  ]
+}
